@@ -5,3 +5,7 @@ screenshots/
 saves/
 local/
 logs/
+usercache.json
+usernamecache.json
+rhino.local.properties
+options.txt
