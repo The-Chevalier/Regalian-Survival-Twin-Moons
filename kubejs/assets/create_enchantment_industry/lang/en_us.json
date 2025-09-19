@@ -1,0 +1,123 @@
+{
+
+	"_": "->------------------------]  Game Elements  [------------------------<-",
+
+	"block.create_enchantment_industry.blaze_enchanter": "Hellion Modifier",
+	"block.create_enchantment_industry.disenchanter": "Disenchanter",
+	"block.create_enchantment_industry.ink": "Ink",
+	"block.create_enchantment_industry.printer": "Printer",
+
+	"entity.create_enchantment_industry.hyper_experience_bottle": "Hyper Experience Nanofluid Bottle",
+	"entity.create_enchantment_industry.hyper_experience_orb": "Hyper Experience Nanofluid Orb",
+
+	"fluid.create_enchantment_industry.experience": "Liquid Experience Nanofluid",
+	"fluid.create_enchantment_industry.hyper_experience": "Liquid Hyper Experience Nanofluid",
+
+	"item.create_enchantment_industry.enchanting_guide": "Modification Guide",
+	"item.create_enchantment_industry.experience_rotor": "Experience Rotor",
+	"item.create_enchantment_industry.hyper_experience_bottle": "Bottle O' Hyper Experience Nanofluid",
+	"item.create_enchantment_industry.ink_bucket": "Ink Bucket",
+
+
+	"_": "->------------------------]  Advancements  [------------------------<-",
+
+	"advancement.create_enchantment_industry.experienced_engineer": "Experienced Engineer",
+	"advancement.create_enchantment_industry.experienced_engineer.desc": "Get some Nuggets of Experience from crushing ores or killing mobs using deployer",
+	"advancement.create_enchantment_industry.black_as_ink": "Black as Ink!",
+	"advancement.create_enchantment_industry.black_as_ink.desc": "Get a bucket of Ink for your publishing business",
+	"advancement.create_enchantment_industry.copiable_masterpiece": "Copiable Masterpiece",
+	"advancement.create_enchantment_industry.copiable_masterpiece.desc": "Copy a Written Book using Printer",
+	"advancement.create_enchantment_industry.copiable_mystery": "Copiable Mystery",
+	"advancement.create_enchantment_industry.copiable_mystery.desc": "Copy a Enchanted Book using Printer",
+	"advancement.create_enchantment_industry.relic_restoration": "Relic Restoration",
+	"advancement.create_enchantment_industry.relic_restoration.desc": "Make brand new copy from a tattered book",
+	"advancement.create_enchantment_industry.great_publisher": "Great Publisher",
+	"advancement.create_enchantment_industry.great_publisher.desc": "Copy 1000 books using Printer",
+	"advancement.create_enchantment_industry.experimental": "Experimental",
+	"advancement.create_enchantment_industry.experimental.desc": "Get some Liquid Experience Nanofluid for your modification experiment!",
+	"advancement.create_enchantment_industry.gone_with_the_foil": "That's not in the TOS!",
+	"advancement.create_enchantment_industry.gone_with_the_foil.desc": "Watch a modified item be demodified by a Datascraper",
+	"advancement.create_enchantment_industry.spirit_taking": "Newly Minted Lobotomite",
+	"advancement.create_enchantment_industry.spirit_taking.desc": "Get your experience converted by a Datascraper",
+	"advancement.create_enchantment_industry.a_shower_experience": "Nanomachines, Son",
+	"advancement.create_enchantment_industry.a_shower_experience.desc": "Break a Fluid Pipe and bathe in the leaked experience",
+	"advancement.create_enchantment_industry.experienced_recycler": "Data Scraper",
+	"advancement.create_enchantment_industry.experienced_recycler.desc": "Recycle 1,000,000 mB of experience from Datascraper",
+	"advancement.create_enchantment_industry.blazes_new_job": "Tega's Toys",
+	"advancement.create_enchantment_industry.blazes_new_job.desc": "Give your Hellion Burner a Modification Guide and turn it into a Hellion Modifier",
+	"advancement.create_enchantment_industry.first_order": "First Order",
+	"advancement.create_enchantment_industry.first_order.desc": "Add a new modification to an unmodified item using a Hellion Modifier",
+	"advancement.create_enchantment_industry.additional_order": "Additional Order",
+	"advancement.create_enchantment_industry.additional_order.desc": "Add a new modification to a modified item using a Hellion Modifier",
+	"advancement.create_enchantment_industry.hypothetical_extension": "Hypothetical Extension",
+	"advancement.create_enchantment_industry.hypothetical_extension.desc": "Add a new modification to an item using a Hellion Modifier's hyper-modification",
+
+
+	"_": "->------------------------]  UI & Messages  [------------------------<-",
+
+	"create_enchantment_industry.gui.enchanting_guide.no_enchantment": "No Available Modification",
+	"create_enchantment_industry.gui.goggles.printer": "Object to be copied:",
+	"create_enchantment_industry.gui.goggles.printer.no_target": "None",
+	"create_enchantment_industry.gui.goggles.blaze_enchanter": "Active Modification:",
+	"create_enchantment_industry.gui.goggles.blaze_enchanter.invalid_target": "Invalid Target",
+	"create_enchantment_industry.gui.goggles.xp_consumption": "Consumes Experience: %s mB",
+	"create_enchantment_industry.gui.goggles.ink_consumption": "Consumes Ink: %s mB",
+	"create_enchantment_industry.gui.goggles.too_expensive": "Too Expensive!",
+
+	"create_enchantment_industry.generic.unit.page": "Page",
+	"create_enchantment_industry.generic.unit.pages": "Pages",
+
+	"recipe.create_enchantment_industry.disenchanting": "Datascraping",
+
+	"create_enchantment_industry.display_source.blaze_enchanter_source_target_enchantment": "Target Modification",
+
+
+	"_": "->------------------------]  Item Descriptions  [------------------------<-",
+
+	"item.create_enchantment_industry.enchanting_guide.tooltip": "MODIFICATION GUIDE TOOLTIPS",
+	"item.create_enchantment_industry.enchanting_guide.tooltip.current_enchantment": "Current Modification:",
+	"item.create_enchantment_industry.enchanting_guide.tooltip.not_configured": "Not Configured",
+
+	"item.create_enchantment_industry.experience_rotor.tooltip": "EXPERIENCE ROTOR",
+	"item.create_enchantment_industry.experience_rotor.tooltip.summary": "Used in _Mixing_ _Recipes_ to convert _Experience_ _Nanofluids_.",
+
+
+	"_": "->------------------------]  Ponder Content  [------------------------<-",
+
+	"create_enchantment_industry.ponder.disenchant.header": "Datascraping",
+	"create_enchantment_industry.ponder.disenchant.text_1": "All received items will have their modifications removed and the removed modifications will be converted to liquid experience nanofluid for storage.",
+	"create_enchantment_industry.ponder.disenchant.text_2": "Players standing on the datascraper will have their accumulated knowledge scraped and converted into nanofluid, reducing their experience level.",
+
+	"create_enchantment_industry.ponder.experience_bottle.header": "Dealing with Bottle o' Experience",
+	"create_enchantment_industry.ponder.experience_bottle.text_1": "Bottle o' Experience can be emptied at an Item Drain.",
+	"create_enchantment_industry.ponder.experience_bottle.text_2": "Bottle o' Experience can also be manufactured via Spout as well.",
+
+	"create_enchantment_industry.ponder.transform.header": "Using Enchanting Guide",
+	"create_enchantment_industry.ponder.transform.text_1": "Right-click the Hellion Burner with a configured Modification Guide in hand when sneaking",
+	"create_enchantment_industry.ponder.transform.text_2": "To retrieve the modification guide, right-click the Hellion Enchanter with your empty hand",
+
+	"create_enchantment_industry.ponder.copy.header": "Using Printer",
+
+	"create_enchantment_industry.ponder.enchant.header": "Enchanting",
+
+	"create_enchantment_industry.ponder.hyper_enchant.header": "Hyper-enchanting",
+	"create_enchantment_industry.ponder.hyper_enchant.text_1": "This is liquid hyper experience nanofluid",
+	"create_enchantment_industry.ponder.hyper_enchant.text_2": "Hyper experience nanofluid can send the Hellion Enchanter into a state of seething. The level of the modification produced in this state will be one level higher than the set modification.",
+
+	"create_enchantment_industry.ponder.drop_experience_nugget.header": "Slaughterhouse Time?",
+	"create_enchantment_industry.ponder.drop_experience_nugget.text_1": "When a mob is killed by deployer, experience nuggets will be dropped.",
+
+	"create_enchantment_industry.ponder.absorb_experience_nugget.header": "Converting Experience Nugget to Liquid",
+	"create_enchantment_industry.ponder.absorb_experience_nugget.text_1": "Experience nuggets can be absorbed by a datascraper.",
+
+	"create_enchantment_industry.ponder.leak.header": "Oh no! It's leaking!",
+	"create_enchantment_industry.ponder.leak.text_1": "I have a tank full of experience",
+	"create_enchantment_industry.ponder.leak.text_2": "I have an open-ended pipe",
+	"create_enchantment_industry.ponder.leak.text_3": "Ugh!",
+	"create_enchantment_industry.ponder.leak.text_4": "Don't worry, the leaked liquid experience will turn into experience orbs. Players can also stand at the opening of the pipe to absorb the nanofluid.",
+	"create_enchantment_industry.ponder.tag.experience": "Experience Related",
+	"create_enchantment_industry.ponder.tag.experience.description": "Items and Components related to experience",
+
+	"_": "Thank you for translating Create: Enchantment Industry!"
+
+}

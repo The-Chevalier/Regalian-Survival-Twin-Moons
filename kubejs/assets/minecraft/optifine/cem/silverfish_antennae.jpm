@@ -1,0 +1,37 @@
+{
+  "textureSize": [64,32],
+  "submodels": [
+    
+    {
+      "comment": "antennae1",
+      "translate": [-1.2,-1,-1],
+      "rotate": [160,10,0],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,0.5,0.5,5],
+          "uvDown": [38,26,39,31],
+          "uvUp": [37,31,38,26],
+          "uvNorth": [37,31,38,32],
+          "uvSouth": [43,31,44,32],
+          "uvWest": [38,31,43,32],
+          "uvEast": [32,31,37,32]
+        }
+      ]
+    },{
+      "comment": "antennae2",
+      "translate": [0.7,-1,-1],
+      "rotate": [160,-10,0],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,0.5,0.5,5],
+          "uvDown": [38,26,39,31],
+          "uvUp": [37,31,38,26],
+          "uvNorth": [37,31,38,32],
+          "uvSouth": [43,31,44,32],
+          "uvWest": [38,31,43,32],
+          "uvEast": [32,31,37,32]
+        }
+      ]
+    }
+  ]
+}

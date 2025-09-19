@@ -1,0 +1,51 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-95, -1, -9, 10, 8, 16],
+					"uvNorth": [24, 0, 34, 8],
+					"uvEast": [28, 16, 44, 24],
+					"uvSouth": [34, 0, 44, 8],
+					"uvWest": [28, 24, 44, 32],
+					"uvUp": [54, 32, 44, 16],
+					"uvDown": [64, 32, 54, 16]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-93, -5, -6.5, 6, 4, 4],
+					"uvNorth": [58, 0, 64, 4],
+					"uvEast": [54, 0, 58, 4],
+					"uvSouth": [50, 6, 56, 10],
+					"uvWest": [50, 0, 54, 4],
+					"uvUp": [64, 8, 58, 4],
+					"uvDown": [56, 10, 50, 6]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [-115, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-93, -3.46892, -4.51785, 6, 4, 10],
+					"uvNorth": [50, 6, 56, 10],
+					"uvEast": [32, 8, 42, 12],
+					"uvSouth": [58, 12, 64, 16],
+					"uvWest": [32, 12, 42, 16],
+					"uvUp": [50, 16, 44, 6],
+					"uvDown": [56, 16, 50, 6]
+				}
+			]
+		}
+	]
+}

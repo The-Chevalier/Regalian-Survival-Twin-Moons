@@ -1,0 +1,70 @@
+{
+  "textureSize": [64, 32],
+  "models": 
+  [
+    {
+      "id": "Head",
+      "model": "wolf3.jpm",
+      "part": "head",  
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Body",
+      "model": "wolf2.jpm",
+      "part": "body", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Mane",
+      "model": "wolf1.jpm",
+      "part": "mane", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [90, 0, 0]
+    },
+	{
+      "id": "Leg1",
+      "model": "wolf5.jpm",
+      "part": "leg1",  
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Leg2",
+      "model": "wolf6.jpm",
+      "part": "leg2",  
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Leg3",
+      "model": "wolf7.jpm",
+      "part": "leg3",  
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Leg4",
+      "model": "wolf8.jpm",
+      "part": "leg4",  
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Tail",
+      "model": "wolf4.jpm",
+      "part": "tail", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

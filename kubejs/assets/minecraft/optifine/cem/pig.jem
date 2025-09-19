@@ -1,0 +1,22 @@
+{
+  "textureSize": [64, 32],
+  "models": 
+  [
+    {
+      "id": "Head",
+      "model": "pig1.jpm",
+      "part": "head",  
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Body",
+      "model": "pig2.jpm",
+      "part": "body", 
+      "attach": "false", 
+      "translate": [90, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "textureSize": [64, 64],
+  "models": 
+  [
+    {
+      "model": "piglin1.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Left Ear",
+      "model": "piglin2.jpm",
+      "part": "left_ear", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Right Ear",
+      "model": "piglin3.jpm",
+      "part": "right_ear", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Body",
+      "model": "piglin4.jpm",
+      "part": "body", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "kubejs:block/yellow_industrial_wall_bolted_hidden_con"
+        ],
+        "extra":{
+        	"ignore_states":true,
+        	"connect_inside":true
+        }
+    }
+}

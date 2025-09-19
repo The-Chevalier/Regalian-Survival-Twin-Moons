@@ -1,0 +1,51 @@
+{
+  "textureSize": [64,32],
+  "submodels": [
+    
+    {
+      "comment": "head",
+      "translate": [-1.5,-1,-1],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,3,2,2],
+          "uvDown": [59,6,62,4],
+          "uvUp": [56,6,59,4],
+          "uvNorth": [56,6,59,8],
+          "uvSouth": [61,6,64,8],
+          "uvWest": [59,6,61,8],
+          "uvEast": [54,6,56,8]
+        }
+      ]
+    },{
+      "comment": "leg5",
+      "translate": [-1.7,0,3],
+      "rotate": [0,0,40],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,1,4,1],
+          "uvDown": [54,11,55,12],
+          "uvUp": [53,11,54,12],
+          "uvNorth": [53,12,54,16],
+          "uvSouth": [55,12,56,16],
+          "uvWest": [54,12,55,16],
+          "uvEast": [52,12,53,16]
+        }
+      ]
+    },{
+      "comment": "leg6",
+      "translate": [1.1,0.5,3],
+      "rotate": [0,0,-40],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,1,4,1],
+          "uvDown": [54,11,55,12],
+          "uvUp": [53,11,54,12],
+          "uvNorth": [53,12,54,16],
+          "uvSouth": [55,12,56,16],
+          "uvWest": [54,12,55,16],
+          "uvEast": [52,12,53,16]
+        }
+      ]
+    }
+  ]
+}

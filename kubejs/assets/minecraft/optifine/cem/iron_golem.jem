@@ -1,0 +1,29 @@
+{
+  "models": 
+  [
+    {
+      "model": "iron_golem_head.jpm",
+      "part": "head", 
+      "translate": [8, 0, -9.5],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "iron_golem_torso.jpm",
+      "part": "body",
+      "translate": [8, 0, -9.0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "left_arm.jpm",
+      "part": "left_arm",
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "right_arm.jpm",
+      "part": "right_arm",
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

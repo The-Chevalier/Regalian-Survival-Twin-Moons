@@ -1,0 +1,21 @@
+{
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "comment": "head",
+      "translate": [-2,-2.5,-2.75],
+      "rotate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [0.0,0.0,0.0,4,5,3],
+          "uvDown": [20,12,24,15],
+          "uvUp": [16,12,20,15],
+          "uvNorth": [16,15,20,20],
+          "uvSouth": [23,15,27,20],
+          "uvWest": [20,15,23,20],
+          "uvEast": [13,15,16,20]
+        }
+      ]
+    }
+  ]
+}

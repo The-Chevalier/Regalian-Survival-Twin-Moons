@@ -1,0 +1,21 @@
+{
+  "textureSize": [64, 32],
+  "models": 
+  [
+    {
+      "id": "tail",
+      "model": "sheep_wool1.jpm",
+      "part": "body", 
+      "attach": "true", 
+      "translate": [-1.3, 8, -9],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "head",
+      "model": "sheep_wool2.jpm",
+      "part": "head", 
+      "attach": "true", 
+      "translate": [0,0,0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

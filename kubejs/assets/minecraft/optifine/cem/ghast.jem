@@ -1,0 +1,78 @@
+{
+  "textureSize": [16,16],
+  "models": 
+  [
+    
+    {
+      "id": "body",
+      "model": "ghast_body.jpm",
+      "part": "body",
+      "attach": true", 
+      "translate": [0, 1, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle1",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle1",
+      "attach": false", 
+      "translate": [-1, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle2",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle2",
+      "attach": false", 
+      "translate": [-2, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle3",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle3",
+      "attach": false", 
+      "translate": [-3.1, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle4",
+      "model": "ghast_.jpm",
+      "part": "tentacle4",
+      "attach": false", 
+      "translate": [-1, -1.5, -1],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle5",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle5",
+      "attach": false", 
+      "translate": [-1.6, -1.5, -1],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle6",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle6",
+      "attach": false", 
+      "translate": [-2.6, -1.5, -1],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle7",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle7",
+      "attach": false", 
+      "translate": [-1, -3.3, -2],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle8",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle8",
+      "attach": false", 
+      "translate": [-2, -3.3, -2],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tentacle9",
+      "model": "ghast_tentacle.jpm",
+      "part": "tentacle9",
+      "attach": false", 
+      "translate": [-3.1, -3.3, -2],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

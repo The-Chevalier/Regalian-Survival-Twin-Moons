@@ -1,0 +1,15 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-4, -1, -3, 8, 8, 6.5],
+			"uvNorth": [24, 20, 32, 29],
+			"uvEast": [18, 20, 24, 29],
+			"uvSouth": [36, 20, 42, 29],
+			"uvWest": [30, 20, 36, 29],
+			"uvUp": [30, 20, 36, 14],
+			"uvDown": [30, 14, 36, 20]
+		}
+	]
+}

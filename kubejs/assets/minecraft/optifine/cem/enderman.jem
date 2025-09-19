@@ -1,0 +1,28 @@
+{
+  "textureSize": [64, 32],
+  "models": 
+  [
+    {
+      "id": "Head",
+      "model": "enderman1.jpm",
+      "part": "head", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "left_arm",
+      "model": "enderman2.jpm",
+      "part": "left_arm", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [-90, 0, 0]
+    },{
+      "id": "right_arm",
+      "model": "enderman3.jpm",
+      "part": "right_arm", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

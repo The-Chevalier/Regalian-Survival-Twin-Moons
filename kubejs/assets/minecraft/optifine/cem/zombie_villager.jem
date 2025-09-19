@@ -1,0 +1,33 @@
+{
+  "textureSize": [64,64],
+  "models": 
+  [
+    {
+      "model": "villager_head.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "model": "villager_.jpm",
+      "part": "headwear", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "villager_legright.jpm",
+      "part": "right_leg", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "villager_legleft.jpm",
+      "part": "left_leg", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

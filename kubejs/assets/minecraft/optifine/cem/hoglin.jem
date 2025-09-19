@@ -1,0 +1,30 @@
+{
+  "textureSize": [128, 64],
+  "models": 
+  [
+    {
+      "id": "Head",
+      "model": "hoglin_head.jpm",
+      "part": "head", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Right Ear",
+      "model": "hoglin_ear.jpm",
+      "part": "right_ear", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Left Ear",
+      "model": "hoglin_ear.jpm",
+      "part": "left_ear", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

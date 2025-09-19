@@ -1,0 +1,14 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "kubejs:block/light_gray_industrial_mesh_single_border_con"
+        ],
+        "extra":{
+        	"ignore_states":true,
+        	"connect_inside":true
+        }
+    }
+}

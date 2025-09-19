@@ -1,0 +1,54 @@
+{
+  "textureSize": [64, 32],
+  "models": 
+  [
+    {
+      "id": "head",
+      "model": "silverfish_head.jpm",
+      "part": "body2",
+      "attach": "false",   
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "body",
+      "model": "silverfish_body.jpm",
+      "part": "body3", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "tail",
+      "model": "silverfish_tail.jpm",
+      "part": "body4", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "tail2",
+      "model": "silverfish_tail2.jpm",
+      "part": "body5", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "antennae",
+      "model": "silverfish_antennae.jpm",
+      "part": "body1", 
+      "attach": "false", 
+      "translate": [0, -0.5, 3],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "anal_cerci",
+      "model": "silverfish_anal_cerci.jpm",
+      "part": "body6", 
+      "attach": "false", 
+      "translate": [1, -1.5, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

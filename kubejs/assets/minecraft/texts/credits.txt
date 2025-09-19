@@ -1,0 +1,52 @@
+[C]§f============
+[C]§eRegalian Survival
+[C]§f============
+
+§7The People That Made It Work
+
+§e          The Chevalier
+- Lead Developer
+- Asset Design
+- Sound Design
+- Server Operation
+§e          ZhamayVu
+- Lead Developer
+- Sound Design
+- Server Operation
+§e          joss
+- Sound Design
+- Music Creator
+§e          Ryzach
+- Sound Design
+§e          510gt
+- Sound Design
+§e          jimonogamer
+- Server Operation
+- Tester
+§e          Lockqe
+- Music Creator
+§e          nyokie
+- Music Creator
+- Tester
+§e          oulxla
+- Music Creator
+§e          Jaysian/SomeRene
+- Sound Design
+§e          Skyles298
+- Asset Design
+- Tester
+§e          star1954
+- Server Operation
+- Tester
+§e          PlantAiden12345678
+- Sound Design
+- Server Operation
+- Tester
+§e          Voxchao/Elegant_Blade/WallowInTheMire
+- Server Operation
+§e          Rocinantus
+- Sound Design
+- Server Operation
+- Tester
+
+[C]and thank you to everyone who has and will play regalian survival!
