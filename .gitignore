@@ -5,3 +5,7 @@ screenshots/
 saves/
 local/
 logs/
+config/fabric/indigo-renderer.properties
+/crash-reports
+config/guardvillagers-common-3.toml.bak
+usercache.json
