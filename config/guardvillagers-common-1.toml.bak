@@ -9,7 +9,7 @@
 	"Allow players to give guards stuff only if they have the hero of the village effect?" = false
 	"Have guards only follow the player if they have hero of the village?" = true
 	#Range: -500.0 ~ 900.0
-	"Guard speed" = 0.5
+	"Guard speed" = 0.8
 	#Range: -999.9000244140625 ~ 999.0
 	"Chance for guards to lose durability" = 1.0
 	#This is the range in which the guards will be aggroed to mobs that are attacking villagers. Higher values are more resource intensive, and setting this to zero will disable the goal.
@@ -20,7 +20,7 @@
 	"Have guards attempt to avoid firing into other friendlies?" = true
 	#How much health a guard regenerates.
 	#Range: -500.0 ~ 500.0
-	"Guard health regeneration amount" = 1.0
+	"Guard health regeneration amount" = 1.4
 	#Range: 0.0 ~ 900.0
 	"Guard follow range" = 20.0
 	"Allow players to set guard patrol points only if they have hero of the village" = false
