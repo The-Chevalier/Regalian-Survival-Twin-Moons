@@ -9,3 +9,7 @@ config/fabric/indigo-renderer.properties
 /crash-reports
 config/guardvillagers-common-3.toml.bak
 usercache.json
+usernamecache.json
+rhino.local.properties
+options.txt
+config/flywheel-client.toml
